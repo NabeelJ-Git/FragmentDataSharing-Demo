@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FragmentDataSharing</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit_text_descriptor">Enter your name here and click submit. Then navigate to the 2nd fragment to see the results.</string>
+    <string name="name_field">Name</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="receive_text_descriptor">After submitting your name on the previous screen you will see it displayed here.</string>
+    <string name="received_name">YOUR NAME</string>
+    <string name="page_one">Page 1</string>
+    <string name="page_two">Page 2</string>
+</resources>

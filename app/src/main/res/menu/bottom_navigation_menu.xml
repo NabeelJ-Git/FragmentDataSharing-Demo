@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/first_fragment"
+        android:title="@string/page_one"
+        android:icon="@drawable/round_filter_1_black_18"/>
+
+    <item android:id="@+id/second_fragment"
+        android:title="@string/page_two"
+        android:icon="@drawable/round_filter_2_black_18"/>
+
+
+
+</menu>
